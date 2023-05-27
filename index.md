@@ -7,7 +7,7 @@ layout: single
 # toc_sticky: true # floating toc
 title: Duiyi Dai (Claire)
 ---
-![img](./assets/images/DuiyiDai.jpeg)
+![img](./assets/images/DuiyiDai.jpeg){: width="250" }
 I am a PhD Candidate in Economics at the Department of Economics, University of Birmingham.
 
 
