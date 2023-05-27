@@ -5,88 +5,14 @@ layout: single
 # toc
 toc: true
 toc_sticky: true # floating toc
-title: Brexit Uncertainty Index
+title: Duiyi Dai (Claire)
 ---
+I am a PhD Candidate in Economics at the Department of Economics, University of Birmingham.
 
-*All data, graphs and analyses on this site should be cited as [Chung, Dai and Elliott (2022)](https://cepr.org/publications/dp17410)*
 
-**Project Summary**
-- We construct novel news-based indicators of Brexit uncertainty at both aggregate and topic-specific level for the UK economy  (such as Northern Ireland, supply chain issues, and energy & climate), based on textual analysis and unsupervised machine learning methods.
+My research interests are in the fields of broad economics, Brexit, and applying machine learning and textual analysis  in economic studies.
 
-- These Brexit uncertainty indices (BUI) capture well UK firms’ concerns reported by the Bank of England’s Decision Maker Panel surveys.
+You can find my CV [here](https://www.dropbox.com/s/6w2lth6jerdp0sz/DuiyiDAI_CV.pdf?dl=0).
 
-- These monthly indices are cost-effective and can be updated in close to real time, which are advantageous to policy evaluation compared to traditional large firm surveys.
-
-- They also allow for disentangling the Brexit effects from those of the COVID-19 pandemic. We find that the pandemic accounted for around half of the overall uncertainty index post 2020, and this magnification effect varies significantly across policy areas.
-
-## Aggregate Brexit Uncertainty Index
-
-### Aggregate BUI (2013- December 2022)
-![general](./assets/images/general2.png)
-
--BUI: A monthly index based on the frequency of news articles that concern Brexit uncertainty. The index is normalized to a maximum value of 100. 
-
-- Lower Bound BUI: A monthly index based on the frequency of news articles that concern Brexit uncertainty, excluding all articles mentioning COVID related words after January 2020. 
-
-#### Comparison to Twitter BUI
-![Comparison to Twitter BUI](./assets/images/twitter%20(2).png)
-
-- Twitter BUI: An index that we construct based on the same methodology for the news-based BUI, but using instead the frequency of Twitter tweets concerning Brexit uncertainty.
-#### Comparison to Stock Market Volatility
-![Comparison to Stock Market Volatility](./assets/images/VFTSE%26BUI.png)
-
-- VFTSE: the FTSE 100 Volatility Index (VFTSE), representing the implied volatility on the FTSE 100, available until June 2019. Data source: Bloomberg.
-
-## 	Topic-level Brexit Uncertainty Indices
-
-### Northern Ireland
-![Northern Ireland](./assets/images/4NI.png)
-
-### Supply Chain
-![Supply Chain](./assets/images/4SC.png)
-
-### Energy & Climate
-![ec](./assets/images/4E%26C.png)
-
-### Employment
-![e](./assets/images/4Employment.png)
-
-### Immigration
-![i](./assets/images/4Immigration.png)
-
-### Trade Policy
-![t](./assets/images/4TPU.png)
-
-### Fishing Dispute
-![fd](./assets/images/4Fishing.png)
-
-### Currency
-![c](./assets/images/4Currency.png)
-
-### Macroeconomy
-![mac](./assets/images/4Macro.png)
-
-### Contact us for more topics:
-
-+ Government Spending & Budget 
-+ Tax
-+ Housing Price 
-+ Food Industry
-+ Manufacturing
-+ Scotland
-
-<!-- this is a demo of adding image to your page -->
-<!-- ## Adding image
-
-- copy you image files to folder /assets/images/
-- use ```![discrption of your image](/assets/images/your_image_file_name.png)``` to add image to your page
-
-here is an example of your index.md file:
-    
-```md
-![UoB Logo](/assets/images/crested-wm-full-colour.png)
-```
-
-it looks like this:
-![UoB Logo](/assets/images/crested-wm-full-colour.png) -->
-
+# Work in Progress
+"Measuring Brexit Uncertainty: A Machine Learning and Textual Analysis Approach" (Corresponding author, with Wanyu Chung and Robert Elliott) [CEPR Discussion Paper 17410](https://cepr.org/active/publications/discussion_papers/dp.php?dpno=17410); Latest Version ([Here](https://cepr.org/active/publications/discussion_papers/dp.php?dpno=17410)); Project Webpage ([Here](https://sites.google.com/view/brexituncertainty/bui)); Policy Brief ([Here](https://www.birmingham.ac.uk/research/public-affairs/policy-briefings/2022/measuring-brexit-uncertainty.aspx));
