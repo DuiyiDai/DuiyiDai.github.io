@@ -3,8 +3,8 @@
 layout: single
 
 # toc
-toc: true
-toc_sticky: true # floating toc
+# toc: true
+# toc_sticky: true # floating toc
 title: Duiyi Dai (Claire)
 ---
 I am a PhD Candidate in Economics at the Department of Economics, University of Birmingham.
