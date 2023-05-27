@@ -1,6 +1,5 @@
-# Brexit Uncertainty Index
+# HomePage on github
 
-## Visit our project [website](https://duiyidai.github.io/brexituncertaintyindex/).
-
+## Visit my [page](https://duiyidai.github.io/brexituncertaintyindex/).
 
 main page: "[index](./index.md)"
