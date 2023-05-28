@@ -13,7 +13,7 @@ title: Duiyi Dai (Claire)
 I am a PhD Candidate in Economics at the Department of Economics, University of Birmingham.
 
 
-My research interests are in the fields of broad economics, Brexit, and applying machine learning and textual analysis  in economic studies.
+My research interests are in the fields of broad economics, uncertainty, and applying machine learning and textual analysis  in economic studies.
 
 You can find my CV [here](https://www.dropbox.com/s/6w2lth6jerdp0sz/DuiyiDAI_CV.pdf?dl=0).
 
