@@ -9,7 +9,7 @@ title: Duiyi Dai (Claire)
 ---
 # Duiyi Dai (Claire)
 
-![img](./assets/images/DuiyiDai.jpeg){:style="display:block; width:40%; float:right"}
+![img](./assets/images/DuiyiDai.jpeg){:style="display:block; width:20%; float:right"}
 I am a PhD Candidate in Economics at the Department of Economics, University of Birmingham.
 
 
