@@ -6,7 +6,7 @@ plugins:
 include: ["_pages"]
 
 logo: "/assets/images/crested-wm-full-colour.png"
-title: Duiyi(Claire) Dai
+title: Duiyi Dai
 
 atom_feed:
   hide: true
