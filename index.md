@@ -10,10 +10,10 @@ title: Duiyi Dai (Claire)
 # Duiyi Dai (Claire)
 
 ![img](./assets/images/DuiyiDai.jpeg){:style="display:block; width:20%; float:right"}
-I am a PhD Candidate in Economics at the Department of Economics, University of Birmingham.
+I am a fourth-year PhD Candidate in Economics at the Department of Economics, University of Birmingham.
 
 
-My research interests are in the fields of broad economics, uncertainty, and applying machine learning and textual analysis  in economic studies.
+My research interests are in the fields of macro economics, environment economics, uncertainty, and applying unstructured data with machine learning and deep learning techniques in economic studies.
 
 You can find my CV [here](https://www.dropbox.com/s/6w2lth6jerdp0sz/DuiyiDAI_CV.pdf?dl=0).
 
