@@ -13,9 +13,11 @@ title: Duiyi Dai (Claire)
 Hi, I am a fourth-year PhD Candidate in Economics at the Department of Economics, University of Birmingham.
 
 
-My research interests are in the fields of macro economics, environment economics, political economy, and using unstructured data to study a wide range of economics questions.
+My research interests are in the fields of macro economics, environment economics, political economy, and using unstructured data with machine learning and deep learning techniques to study a wide range of economics questions.
 
 You can find my CV [here](https://www.dropbox.com/scl/fi/eszny8a62u6040jvf3nm7/DuiyiDAI_CV.pdf?rlkey=5osli436d4h7s6ziqde3cq3rs&dl=0).
+
+I am on the 2023-2024 job market and will be available for interviews.
 
 ## Work in Progress
 "**Measuring Brexit Uncertainty: A Machine Learning and Textual Analysis Approach**" (Corresponding author, with Wanyu Chung and Robert Elliott) [CEPR Discussion Paper 17410](https://cepr.org/active/publications/discussion_papers/dp.php?dpno=17410); Latest Version ([Here](https://cepr.org/active/publications/discussion_papers/dp.php?dpno=17410)); Project Webpage ([Here](https://duiyidai.github.io/brexituncertaintyindex/)); Policy Brief ([Here](https://www.birmingham.ac.uk/research/public-affairs/policy-briefings/2022/measuring-brexit-uncertainty.aspx));
