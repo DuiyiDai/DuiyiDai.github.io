@@ -15,7 +15,7 @@ Hi, I am a fourth-year PhD Candidate in Economics at the Department of Economics
 
 My research interests are in the fields of macroeconomics, environmental economics, political economy, machine learning, and deep learning.
 
-You can find my CV [here](https://www.dropbox.com/scl/fi/vm4u289dal6qcgpfdgftk/CV_DuiyiDAI.pdf?rlkey=8a94z6s9iif6to9cuvl4ex36x&st=0g717hph&dl=0).
+You can find my CV [here](https://www.dropbox.com/scl/fi/vm4u289dal6qcgpfdgftk/CV_DuiyiDAI.pdf?rlkey=8a94z6s9iif6to9cuvl4ex36x&st=u5z6w1vv&dl=0).
 
 I am on the 2023-2024 job market and will be available for interviews.
 
