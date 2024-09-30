@@ -27,16 +27,16 @@ I am on the 2023-2024 job market and will be available for interviews.
 Learning Approach**" (Corresponding author, with Wanyu Chung and Robert Elliott)
 
 ## Teaching
-**Invited Instructor**, *Textual Analysis and Machine Learning with Python* (PhD), AIB UKI Conference  
+*Invited Instructor*, **Textual Analysis and Machine Learning with Python** (PhD), AIB UKI Conference  
 *2024*
 
-**Seminar Leader**, *Global Economy* (Undergraduates), University of Birmingham  
+*Teaching Assistant*, **Global Economy** (Undergraduates), University of Birmingham  
 *2022, 2023, 2024*
 
-**Seminar Leader**, *International Trade Theory & Policy* (Undergraduates), University of Birmingham  
+*Teaching Assistant*, **International Trade Theory & Policy** (Undergraduates), University of Birmingham  
 *2021*
 
-**Seminar Leader**, *Econometrics with Stata* (Undergraduates), University of Birmingham  
+*Teaching Assistant*, **Econometrics with Stata** (Undergraduates), University of Birmingham  
 *2021, 2022*
 
 
