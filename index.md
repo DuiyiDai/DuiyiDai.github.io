@@ -10,7 +10,7 @@ title: Duiyi Dai (Claire)
 # Duiyi Dai (Claire)
 
 ![img](./assets/images/DuiyiDai.jpeg){:style="display:block; width:20%; float:right"}
-Hi, I am an Economist and Data Scientist. I am a fourth-year PhD Candidate in Economics at the Department of Economics, University of Birmingham. I am supervised by Prof. Robert Elliott and Dr. Wanyu Chung
+Hi, I am a Macroeconomist and Data Scientist, currently in my fourth year as a PhD candidate in Economics at the University of Birmingham. I am supervised by [Prof. Robert Elliott](https://www.birmingham.ac.uk/staff/profiles/business/elliott-robert) and [Dr. Wanyu Chung](https://sites.google.com/site/wanyuchung/).
 
 
 My research interests are in the fields of macroeconomics, environmental economics, political economy, machine learning, and deep learning.
