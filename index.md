@@ -15,7 +15,7 @@ Hi, I am a Macroeconomist and Data Scientist, currently in my fourth year as a P
 
 My research interests are in the fields of macroeconomics, environmental economics, political economy, machine learning, and deep learning.
 
-You can find my CV [here](https://www.dropbox.com/scl/fi/ysk35ny64i3rg7lzk2slr/CV_DuiyiDAI.pdf?rlkey=aqg6u0v9c5izvg4ep03kw6ig9&st=u61byyai&dl=0).
+You can find my CV [here](https://www.dropbox.com/scl/fi/s616zkbpaor5da2yen3w7/CV_DuiyiDAI.pdf?rlkey=xb4n303uwrr8hkblt42lht5cj&st=a8fv077j&dl=0).
 
 I am on the 2024-2025 job market and will be available for interviews.
 
