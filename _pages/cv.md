@@ -4,4 +4,4 @@ layout: single
 # show_title: false
 ---
 
-## [View my CV](https://www.dropbox.com/scl/fi/s616zkbpaor5da2yen3w7/CV_DuiyiDAI.pdf?rlkey=xb4n303uwrr8hkblt42lht5cj&st=a8fv077j&dl=0)
+## [View my CV](https://www.dropbox.com/scl/fi/yj1ntzgov0wteejnb3im9/CV_DuiyiDAI.pdf?rlkey=2z05dtfry466ngison4jmdl48&st=sg31zpsz&dl=0)
