@@ -23,8 +23,11 @@ I am on the 2024-2025 job market and will be available for interviews.
 "**Measuring Brexit Uncertainty: A Machine Learning and Textual Analysis Approach**" (Corresponding author, with Wanyu Chung, Robert Elliott, and Christoph Görtz) [CEPR Discussion Paper 17410](https://cepr.org/active/publications/discussion_papers/dp.php?dpno=17410); Latest Version ([Here](https://www.dropbox.com/scl/fi/gx6sodnm0odt2jdo4n62d/BrexitUncertainty_Draft-1.pdf?rlkey=qd2o57srzw9vv5mvtkvxu114b&dl=0)); Project Webpage ([Here](https://duiyidai.github.io/brexituncertaintyindex/)); Policy Brief ([Here](https://www.birmingham.ac.uk/research/public-affairs/policy-briefings/2022/measuring-brexit-uncertainty.aspx));
 
 
-"**Measuring Visual Media bias during Brexit Vote: A Computer Vision and Machine
-Learning Approach**" (Corresponding author, with Wanyu Chung and Robert Elliott)
+"**Measuring Visual Media bias during Brexit Vote: A Computer Vision and Machine Learning Approach**" (Corresponding author, with Wanyu Chung and Robert Elliott)
+
+"**From Floods to Votes: The Impact of Natural Disasters on Electoral Outcomes through Social Media Sentiment Analysis**" (Corresponding author, with Wanyu Chung and Robert Elliott)
+
+"**The Visual Narrative of Climate Change: Assessing Its Effect on Capital Market Movements**"
 
 ## Teaching
 *Invited Instructor*, **Textual Analysis and Machine Learning with Python** (PhD), AIB UKI Conference  
