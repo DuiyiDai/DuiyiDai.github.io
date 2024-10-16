@@ -13,7 +13,7 @@ title: Duiyi Dai (Claire)
 Hi, I am a Macroeconomist and Data Scientist, currently in my fourth year as a PhD candidate in Economics at the University of Birmingham. I am supervised by [Prof. Robert Elliott](https://www.birmingham.ac.uk/staff/profiles/business/elliott-robert) and [Dr. Wanyu Chung](https://sites.google.com/site/wanyuchung/).
 
 
-My research interests are in the fields of macroeconomics, environmental economics, political economy, machine learning, and deep learning.
+My research interests are in the fields of media economics, macroeconomics, environmental economics, political economy, machine learning, and deep learning.
 
 You can find my CV [here](https://www.dropbox.com/scl/fi/yj1ntzgov0wteejnb3im9/CV_DuiyiDAI.pdf?rlkey=2z05dtfry466ngison4jmdl48&st=sg31zpsz&dl=0).
 
