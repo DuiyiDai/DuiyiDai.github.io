@@ -15,7 +15,7 @@ Hi, I am a Macroeconomist and Data Scientist, currently in my fourth year as a P
 
 My research interests are in the fields of media economics, macroeconomics, environmental economics, political economy, machine learning, and deep learning.
 
-You can find my CV [here](https://www.dropbox.com/scl/fi/yj1ntzgov0wteejnb3im9/CV_DuiyiDAI.pdf?rlkey=2z05dtfry466ngison4jmdl48&st=sg31zpsz&dl=0).
+You can find my CV [here](https://www.dropbox.com/scl/fi/jccnrnlc847he7hj5qf58/CV_DuiyiDAI.pdf?rlkey=fktah2r9qt5suqf4ncqaozvuc&st=060xontw&dl=0).
 
 I am on the 2024-2025 job market and will be available for interviews.
 
@@ -23,7 +23,7 @@ I am on the 2024-2025 job market and will be available for interviews.
 "**Measuring Brexit Uncertainty: A Machine Learning and Textual Analysis Approach**" (Corresponding author, with Wanyu Chung, Robert Elliott, and Christoph Görtz) [CEPR Discussion Paper 17410](https://cepr.org/active/publications/discussion_papers/dp.php?dpno=17410); Latest Version ([Here](https://www.dropbox.com/scl/fi/gx6sodnm0odt2jdo4n62d/BrexitUncertainty_Draft-1.pdf?rlkey=qd2o57srzw9vv5mvtkvxu114b&dl=0)); Project Webpage ([Here](https://duiyidai.github.io/brexituncertaintyindex/)); Policy Brief ([Here](https://www.birmingham.ac.uk/research/public-affairs/policy-briefings/2022/measuring-brexit-uncertainty.aspx));
 
 
-"**Measuring Visual Media bias during Brexit Vote: A Computer Vision and Machine Learning Approach**" (Corresponding author, with Wanyu Chung and Robert Elliott)
+"**Brexit and Visual Media bias: A Computer Vision Approach**" (Corresponding author, with Wanyu Chung and Robert Elliott)
 
 "**From Floods to Votes: The Impact of Natural Disasters on Electoral Outcomes through Social Media Sentiment Analysis**" (Corresponding author, with Wanyu Chung and Robert Elliott)
 
