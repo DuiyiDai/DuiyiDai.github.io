@@ -21,7 +21,8 @@ I am on the 2024-2025 job market and will be available for interviews.
 
 ## Selected Works in Progress
 "**Measuring Brexit Uncertainty: A Machine Learning and Textual Analysis Approach**" (Corresponding author, with Wanyu Chung and Robert Elliott) [CEPR Discussion Paper 17410](https://cepr.org/active/publications/discussion_papers/dp.php?dpno=17410); Latest Version ([Here](https://www.dropbox.com/scl/fi/gx6sodnm0odt2jdo4n62d/BrexitUncertainty_Draft-1.pdf?rlkey=qd2o57srzw9vv5mvtkvxu114b&dl=0)); Project Webpage ([Here](https://duiyidai.github.io/brexituncertaintyindex/)); Policy Brief ([Here](https://www.birmingham.ac.uk/research/public-affairs/policy-briefings/2022/measuring-brexit-uncertainty.aspx));
-&nbsp;&nbsp;&nbsp;&nbsp;Follow-up study --"**The effect of Brexit Uncertainty with VAR**" (Corresponding author, with Christoph Görtz) [PDF](https://www.dropbox.com/scl/fi/0lfi7z6knzbh4s4azr21y/BrexitVAR.pdf?rlkey=6h48oa11b7pr5sp336puhfiyr&st=mo0ohjco&dl=0)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Follow-up study --"**The effect of Brexit Uncertainty with VAR**" (Corresponding author, with Christoph Görtz) [PDF](https://www.dropbox.com/scl/fi/0lfi7z6knzbh4s4azr21y/BrexitVAR.pdf?rlkey=6h48oa11b7pr5sp336puhfiyr&st=mo0ohjco&dl=0)
 
 "**Brexit and Visual Media bias: A Computer Vision Approach**" (Corresponding author, with Wanyu Chung and Robert Elliott) [Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5000681);
 
