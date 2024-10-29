@@ -32,7 +32,7 @@ I am on the 2024-2025 job market and will be available for interviews.
 
 ## Teaching
 *Invited Instructor*, **Textual Analysis and Machine Learning with Python** (PhD), AIB UKI Conference  
-*2024*
+*2024* [Slides](https://www.dropbox.com/scl/fi/il3dt8pqq627x1va8z93k/AIB_slides.pdf?rlkey=dwt02ddfpslxuz09kydytxhyk&st=7cdgevix&dl=0)
 
 *Teaching Assistant*, **Global Economy** (Undergraduates), University of Birmingham  
 *2022, 2023, 2024*
