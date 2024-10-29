@@ -24,11 +24,13 @@ I am on the 2024-2025 job market and will be available for interviews.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**Follow-up Study:** --"**The effect of Brexit Uncertainty with VAR**" (Corresponding author, with Christoph Görtz) [PDF](https://www.dropbox.com/scl/fi/0lfi7z6knzbh4s4azr21y/BrexitVAR.pdf?rlkey=6h48oa11b7pr5sp336puhfiyr&st=ysp1jdav&dl=0)
 
-
+<br><br>
 "**Brexit and Visual Media bias: A Computer Vision Approach**" (Corresponding author, with Wanyu Chung and Robert Elliott) [Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5000681);
 
+<br><br>
 "**From Floods to Votes: The Impact of Natural Disasters on Electoral Outcomes through Social Media Sentiment Analysis**" (Corresponding author, with Wanyu Chung and Robert Elliott)
 
+<br><br>
 "**The Visual Narrative of Climate Change: Assessing Its Effect on Capital Market Movements**"
 
 ## Teaching
