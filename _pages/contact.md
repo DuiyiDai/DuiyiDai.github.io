@@ -5,6 +5,6 @@ layout: single
 
 ## Duiyi (Claire) Dai
 
-PhD Candidate, <br>
-University of Birmingham <br>
-dxd048@student.bham.ac.uk
+Researcher, <br>
+University of Oxford <br>
+duiyidai@gmail.com
