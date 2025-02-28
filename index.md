@@ -17,8 +17,6 @@ My research interests are in the fields of media economics, environmental econom
 
 You can find my CV [here](https://www.dropbox.com/scl/fi/7cjnihouum4cuhvbs9igk/CV_DuiyiDAI.pdf?rlkey=bnkfiml4rl83yuqxcvtnze0jx&st=0klortqc&dl=0).
 
-I am on the 2024-2025 job market and will be available for interviews.
-
 ## Selected Works in Progress
 "**Measuring Brexit Uncertainty: A Machine Learning and Textual Analysis Approach**" (Corresponding author, with Wanyu Chung and Robert Elliott) [CEPR Discussion Paper 17410](https://cepr.org/active/publications/discussion_papers/dp.php?dpno=17410); Latest Version ([Here](https://www.dropbox.com/scl/fi/gx6sodnm0odt2jdo4n62d/BrexitUncertainty_Draft-1.pdf?rlkey=qd2o57srzw9vv5mvtkvxu114b&dl=0)); Project Webpage ([Here](https://duiyidai.github.io/brexituncertaintyindex/)); Policy Brief ([Here](https://www.birmingham.ac.uk/research/public-affairs/policy-briefings/2022/measuring-brexit-uncertainty.aspx));
 
