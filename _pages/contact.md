@@ -5,6 +5,7 @@ layout: single
 
 ## Duiyi (Claire) Dai
 
-Researcher, <br>
+Postdoctoral Researcher in Data Science and Informatics, <br>
 University of Oxford <br>
 duiyidai@gmail.com
+duiyi.dai@demography.ox.ac.uk
