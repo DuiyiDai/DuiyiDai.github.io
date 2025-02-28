@@ -12,7 +12,6 @@ title: Duiyi Dai (Claire)
 ![img](./assets/images/DuiyiDai.jpeg){:style="display:block; width:20%; float:right"}
 Hi, I am a Postdoctoral Researcher in Data Science and Informatics at the [Leverhulme Centre for Demographic Science](https://www.demography.ox.ac.uk/), University of Oxford, where I work with [Charles Rahal](https://crahal.com/). I received my PhD in Economics from the University of Birmingham in 2025. I was supervised by [Prof. Robert Elliott](https://www.birmingham.ac.uk/staff/profiles/business/elliott-robert) and [Dr. Wanyu Chung](https://sites.google.com/site/wanyuchung/).
 
-
 My research interests are in the fields of media economics, environmental economics, macroeconomics, political economy, machine learning, and deep learning.
 
 You can find my CV [here](https://www.dropbox.com/scl/fi/7cjnihouum4cuhvbs9igk/CV_DuiyiDAI.pdf?rlkey=bnkfiml4rl83yuqxcvtnze0jx&st=0klortqc&dl=0).
