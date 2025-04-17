@@ -10,7 +10,7 @@ title: Duiyi Dai (Claire)
 # Duiyi Dai (Claire)
 
 ![img](./assets/images/DuiyiDai.jpeg){:style="display:block; width:20%; float:right"}
-Hi, I am a Researcher in Data Science and Informatics at the [Leverhulme Centre for Demographic Science](https://www.demography.ox.ac.uk/), University of Oxford, where I work with [Dr. Charles Rahal](https://crahal.com/). 
+Hi, I am a Researcher in Data Science and Informatics at the University of Oxford, where I work with [Dr. Charles Rahal](https://crahal.com/). 
 
 I received my PhD in Economics from the University of Birmingham in 2025. I was supervised by [Prof. Robert Elliott](https://www.birmingham.ac.uk/staff/profiles/business/elliott-robert) and [Dr. Wanyu Chung](https://sites.google.com/site/wanyuchung/).
 
