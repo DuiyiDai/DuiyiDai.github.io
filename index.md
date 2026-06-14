@@ -9,7 +9,8 @@ title: Duiyi Dai (Claire)
 ---
 # Duiyi Dai (Claire)
 
-![img](./assets/images/DuiyiDai.jpeg){:style="display:block; width:20%; float:right"}
+<img src="./assets/images/DuiyiDai.jpeg" alt="Duiyi Dai" style="display:block; width:20%; float:right">
+
 Hi! I am an empirical economist and data scientist working at the intersection of economics, machine learning, large language models, and large-scale unstructured data. 
 
 I am currently an **Empirical Research Analyst in Equity Research at UBS**, where I use alternative datasets, quantitative methods, and data-driven research tools to study company and sector performance across European equities. 
