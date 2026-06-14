@@ -21,7 +21,7 @@ I received my PhD in Economics from the University of Birmingham in 2025, superv
 
 My research develops novel measurement systems from large-scale text, image, and alternative datasets. I am particularly interested in economic uncertainty, AI and technological change, media economics, political economy, macroeconomics, and reproducible computational research. My work has been published or accepted in outlets including *Patterns* and the *European Economic Review*, and has been disseminated through CEPR and the Scottish Government. 
 
-You can find my CV [here](https://www.dropbox.com/scl/fi/7cjnihouum4cuhvbs9igk/CV_DuiyiDAI.pdf?rlkey=bnkfiml4rl83yuqxcvtnze0jx&st=0klortqc&dl=0).
+You can find my CV [here](https://www.dropbox.com/scl/fi/7cjnihouum4cuhvbs9igk/CV_DuiyiDAI.pdf?rlkey=bnkfiml4rl83yuqxcvtnze0jx&st=e36qg8zz&dl=0).
 
 ## Publications & Forthcoming
 
