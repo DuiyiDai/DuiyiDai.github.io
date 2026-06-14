@@ -41,9 +41,9 @@ My research develops novel measurement systems from large-scale text, image, and
 
 ## Software & Research Infrastructure
 
-**RobustiPy** — an open-source Python library for multiverse and specification-curve analysis, with bootstrap inference, model selection and averaging, and SHAP-based explainability. [Code](https://github.com/RobustiPy/robustipy); [Project site](https://robustipy.github.io/)
+**RobustiPy**: an open-source Python library for multiverse and specification-curve analysis, with bootstrap inference, model selection and averaging, and SHAP-based explainability. [Code](https://github.com/RobustiPy/robustipy); [Project site](https://robustipy.github.io/)
 
-**UK Parliamentary Debates & Speaker Biographies** — a research-grade PostgreSQL database integrating historical Commons and Lords debates with structured speaker biographies, full-text search, and reproducible exports. [Code](https://github.com/centre-for-care/hansard)
+**UK Parliamentary Debates & Speaker Biographies**: a research-grade PostgreSQL database integrating historical Commons and Lords debates with structured speaker biographies, full-text search, and reproducible exports. [Code](https://github.com/centre-for-care/hansard)
 
 ## Teaching
 *Guest Lecturer*, **Aston University**  
