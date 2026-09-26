@@ -1,11 +1,14 @@
 ---
 layout: single
-# toc: true
+title: Contact
 ---
 
 ## Duiyi (Claire) Dai
 
-Researcher in Data Science and Informatics, <br>
-University of Oxford <br>
-duiyidai@gmail.com <br>
-duiyi.dai@demography.ox.ac.uk
+Empirical Research Analyst in Equity Research, UBS
+
+For research enquiries and professional correspondence:
+
+[duiyidai@gmail.com](mailto:duiyidai@gmail.com)
+
+[Return to homepage](/#contact)
