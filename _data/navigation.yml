@@ -1,0 +1,8 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "CV"
+    url: /_pages/cv.html
+  - title: "Contact"
+    url: /_pages/contact.html
+
