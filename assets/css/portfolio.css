@@ -58,8 +58,8 @@ h1 { font: 400 38px/1.15 Georgia, 'Times New Roman', serif; letter-spacing: -1px
 }
 .section>h2,.section-heading {
   margin: 0 0 24px -18px;
-  padding: 13px 18px;
-  background: #e3ede7;
+  padding: 9px 18px;
+  background: #edf2ed;
   border-radius: 5px;
 }
 h2 { font: 600 20px/1.4 Arial, Helvetica, sans-serif; letter-spacing: -.3px; }
@@ -155,7 +155,7 @@ footer a { color: var(--muted); }
 }
 @media (max-width: 520px) {
   .section { margin-top: 36px; padding: 0; }
-  .section>h2,.section-heading { margin: 0 0 20px -15px; padding: 12px 15px; }
+  .section>h2,.section-heading { margin: 0 0 20px -15px; padding: 9px 15px; }
   .section>h2,.section-heading h2 { font-size: 22px; }
   .section-heading { display: block; }
   .section-heading>span { display: block; margin-top: 4px; font-size: 12px; }
