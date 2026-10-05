@@ -1,0 +1,44 @@
+{
+  "code_version": null,
+  "config": {
+    "cost_bps": 10,
+    "lookback": 252,
+    "strategy": "overlay",
+    "vol_floor": 0.01,
+    "vol_reference": 0.1,
+    "vol_window": 63
+  },
+  "data_mode": "synthetic",
+  "dependencies": {
+    "exchange-calendars": "4.11.2",
+    "numpy": "2.2.6",
+    "pandas": "2.3.3"
+  },
+  "end": "2025-12-31",
+  "financial_hash": "923d64bec42baabf167f65695134d60d898a78236458fcc365af2a90c69f5ac3",
+  "input_coverage": [
+    "2004-01-02",
+    "2025-12-31"
+  ],
+  "inputs": {
+    "metadata": "7e3394bddda7f29dc5f30a6e062b631b89e632d84b81d987101ebc0ab3bd2368",
+    "prices": "a39ca7cdacfc22b782b5d322d2f6d8879f476b217e21e729be5f7c09a46552f3",
+    "rates": "5efd6fb1a7a6c0407ea43d5e16830d71763b7e15898a0fe0319e465968194c28"
+  },
+  "launch": "2005-02-01",
+  "methodology": "QIS-1.0",
+  "owner_review": "pending",
+  "public_export": true,
+  "python": "3.11.11",
+  "result_coverage": [
+    "2005-02-01",
+    "2025-12-31"
+  ],
+  "result_id": "8c98290316f9610fc87b",
+  "source_hash": "92efd95b86e90e3644bb8527ebf043f90ce6f310cf12d9c37fb762a76d9d4990",
+  "validation": {
+    "calendar": "XNYS",
+    "sessions": 5535,
+    "status": "passed"
+  }
+}
